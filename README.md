@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maciejwolski
-- 👀 I’m interested in Artificial Intelligence, Neuroscience, Computer Vision, Robotics, Edge computing
-- 🌱 I’m currently working on private repositories on GitHub
-- 💞️ I’m looking to collaborate on creating Robotic Intelligence & Artificial General Intelligence
+- 👀 I’m interested in Artificial Intelligence, Neuroscience & Edge computing
+- 🌱 I’m currently working mostly on private repositories on GitHub
+- 💞️ I’m looking to collaborate on creating powerful Edge AI applications
 - 📫 How to reach me - use LinkedIn (https://www.linkedin.com/in/maciej-wolski-9b38866/)
 
 <!---
